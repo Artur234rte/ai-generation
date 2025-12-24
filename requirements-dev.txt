@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest>=8.1.0
+pytest-asyncio>=0.23.5
+isort==7.0.0
+black==24.4.0
+flake8==7.3.0
+pre-commit==4.5.1
