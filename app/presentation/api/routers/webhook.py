@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from fastapi import APIRouter, Depends, Header
 
 from app.application.use_cases.webhook import WebhookTopupService

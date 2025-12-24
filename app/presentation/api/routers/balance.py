@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from fastapi import APIRouter, Depends
 
 from app.application.use_cases.balance import BalanceService
